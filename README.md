@@ -1,7 +1,5 @@
 # Enterprise AI & Operations Automation Blueprints
 
-# Enterprise AI & Operations Automation Blueprints
-
 This repository contains sanitized, production-ready architectural patterns for business process automation. I specialize in building complex, agentic workflows for the **Logistics** and **Service Industry** sectors.
 
 ## 🚀 Key Solutions Provided
@@ -19,6 +17,3 @@ graph LR
   B -->|Condition B| D[Slack Notification]
   C --> E[Log Activity to DB]
   D --> E
-
-
-# Enterprise-Automation-Blueprints
